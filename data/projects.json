@@ -1,0 +1,64 @@
+[
+  {"cat": "start", "repo": "multica-ai/andrej-karpathy-skills", "zh": "一份 CLAUDE.md 写进 Karpathy 的四条编码原则：先想再写、保持简单、精准修改、目标驱动。上线首日 5800+ 星", "tools": "Claude Code"},
+  {"cat": "start", "repo": "obra/superpowers", "zh": "一整套开发方法论：先规划、TDD、系统化调试、子代理并行，Skill 圈星数第一梯队", "tools": "Claude Code / Codex"},
+  {"cat": "start", "repo": "mattpocock/skills", "zh": "Matt Pocock 的私藏 Skill，其中 grill-me 会先把你问透再动手写代码，在 X 上刷屏", "tools": "Claude Code / Codex"},
+  {"cat": "start", "repo": "garrytan/gstack", "zh": "YC CEO Garry Tan 的完整配置：23 个斜杠命令扮演 CEO、设计、工程经理、QA、发布", "tools": "Claude Code 等 10 种"},
+  {"cat": "start", "repo": "affaan-m/ECC", "zh": "Agent 性能优化全家桶：技能、记忆、安全、研究优先的开发流程", "tools": "Claude Code / Codex / Cursor"},
+  {"cat": "start", "repo": "addyosmani/agent-skills", "zh": "Google 工程师 Addy Osmani 的生产级工程 Skill 合集", "tools": "通用"},
+  {"cat": "start", "repo": "DietrichGebert/ponytail", "zh": "让 AI 像最懒的资深工程师一样思考：能不写的代码就不写", "tools": "Claude Code"},
+
+  {"cat": "token", "repo": "JuliusBrussee/caveman", "zh": "让 AI 用原始人说话方式回复，平均省 65% 输出 Token，梗图级爆火", "tools": "通用"},
+  {"cat": "token", "repo": "rtk-ai/rtk", "zh": "命令行代理，常见开发命令的 Token 消耗降 60%-90%，单个 Rust 二进制", "tools": "通用"},
+  {"cat": "token", "repo": "headroomlabs-ai/headroom", "zh": "在工具输出、日志、文件进入模型前先压缩", "tools": "通用"},
+  {"cat": "token", "repo": "mksglu/context-mode", "zh": "沙箱化工具输出、持久化会话记忆，上下文占用大幅下降", "tools": "17 个平台"},
+  {"cat": "token", "repo": "thedotmack/claude-mem", "zh": "跨会话记忆：自动记录 Agent 做过的事，下次开会话直接接上", "tools": "Claude Code"},
+  {"cat": "token", "repo": "OthmanAdi/planning-with-files", "zh": "用 Markdown 文件做持久化计划，长任务崩了也能续上", "tools": "通用"},
+
+  {"cat": "graph", "repo": "Graphify-Labs/graphify", "zh": "把整个代码库连同文档、SQL、配置变成可查询的知识图谱", "tools": "Claude Code / Codex"},
+  {"cat": "graph", "repo": "Egonex-AI/Understand-Anything", "zh": "把任何代码变成可交互探索的知识图谱，用来读懂陌生项目", "tools": "通用"},
+  {"cat": "graph", "repo": "tt-a1i/archify", "zh": "一句话把想法、计划或代码库画成漂亮的交互式架构图", "tools": "Claude Code / Codex"},
+  {"cat": "graph", "repo": "cathrynlavery/diagram-design", "zh": "杂志级图表设计 Skill，42 种图表类型", "tools": "Claude Code / Codex"},
+
+  {"cat": "design", "repo": "anthropics/skills", "zh": "Anthropic 官方 Skill 库，frontend-design 是装机量最高的设计 Skill", "tools": "Claude Code"},
+  {"cat": "design", "repo": "Leonxlnx/taste-skill", "zh": "给 AI 装上审美，告别千篇一律的 AI 味界面", "tools": "通用"},
+  {"cat": "design", "repo": "Nutlope/hallmark", "zh": "反 AI slop 的设计 Skill", "tools": "Claude Code / Codex / Cursor"},
+  {"cat": "design", "repo": "nexu-io/open-design", "zh": "开源版 Claude Design 替代品，本地优先的桌面应用", "tools": "通用"},
+  {"cat": "design", "repo": "alchaincyf/huashu-design", "zh": "花叔的 HTML 原生设计 Skill：高保真原型、幻灯片、动画", "tools": "Claude Code"},
+  {"cat": "design", "repo": "vercel-labs/agent-skills", "zh": "Vercel 官方：UI 规范审查、React 性能优化、组件设计模式", "tools": "通用"},
+
+  {"cat": "content", "repo": "Panniantong/Agent-Reach", "zh": "让 Agent 能读能搜 Twitter、Reddit、YouTube、B 站等全网内容", "tools": "通用"},
+  {"cat": "content", "repo": "mvanhorn/last30days-skill", "zh": "围绕任一话题扫 Reddit、X、YouTube、HN 最近 30 天的讨论并汇总", "tools": "通用"},
+  {"cat": "content", "repo": "blader/humanizer", "zh": "去除文字里的 AI 写作痕迹", "tools": "通用"},
+  {"cat": "content", "repo": "coreyhaines31/marketingskills", "zh": "营销 Skill：转化优化、文案、SEO、数据分析、增长", "tools": "Claude Code / Codex"},
+  {"cat": "content", "repo": "op7418/guizang-ppt-skill", "zh": "歸藏的 PPT Skill：生成杂志风、瑞士风 HTML 幻灯片", "tools": "Claude Code / Codex"},
+  {"cat": "content", "repo": "op7418/guizang-social-card-skill", "zh": "歸藏的小红书轮播图、公众号封面生成 Skill", "tools": "Claude Code / Codex"},
+  {"cat": "content", "repo": "remotion-dev/skills", "zh": "Remotion 官方：用 React 代码做视频", "tools": "通用"},
+  {"cat": "content", "repo": "Vincentwei1021/video-shotcraft", "zh": "电影感产品视频：152 张分镜卡、209 种运动效果", "tools": "Claude Code / Codex"},
+  {"cat": "content", "repo": "latent-spaces/brag", "zh": "一条命令把刚做完的项目变成可分享的发布短片", "tools": "Claude Code"},
+  {"cat": "content", "repo": "digitalsamba/claude-code-video-toolkit", "zh": "AI 原生视频制作：写脚本、配音、配乐、渲染 MP4 全流程", "tools": "Claude Code"},
+
+  {"cat": "zh", "repo": "JimLiu/baoyu-skills", "zh": "宝玉的 20+ 个效率 Skill：封面图、文章配图、发公众号等", "tools": "Claude Code / Codex"},
+  {"cat": "zh", "repo": "KKKKhazix/khazix-skills", "zh": "数字生命卡兹克的 Skill 合集：定目标、洁癖整理、写作等", "tools": "Claude Code / Codex"},
+  {"cat": "zh", "repo": "jnMetaCode/agency-agents-zh", "zh": "277 个 AI 专家角色，含 64 个小红书、抖音、微信等中国市场原创智能体", "tools": "20 种工具"},
+  {"cat": "zh", "repo": "zenstory-ai/oh-story-claudecode", "zh": "网文写作全流程：扫榜、拆文、写作、去 AI 味、封面", "tools": "Claude Code / Codex"},
+  {"cat": "zh", "repo": "helloianneo/ian-xiaohei-illustrations", "zh": "中文“小黑”怪诞风正文配图生成", "tools": "Codex"},
+  {"cat": "zh", "repo": "titanwings/distilly", "zh": "把一个人的思考方式蒸馏成可复用的 Skill（原“同事 Skill”）", "tools": "通用"},
+
+  {"cat": "cross", "repo": "openai/codex-plugin-cc", "zh": "OpenAI 官方出品：在 Claude Code 里直接调用 Codex 做代码审查、委派任务", "tools": "Claude Code + Codex"},
+  {"cat": "cross", "repo": "stablyai/orca", "zh": "并行 Agent 舰队的开发环境，用自己的订阅跑任何编码 Agent", "tools": "通用"},
+  {"cat": "cross", "repo": "manaflow-ai/cmux", "zh": "为 AI 编码 Agent 打造的 macOS 终端：竖排标签、完成通知", "tools": "通用"},
+  {"cat": "cross", "repo": "wshobson/agents", "zh": "多平台 Agent 插件市场", "tools": "Claude Code / Codex / Cursor 等"},
+
+  {"cat": "life", "repo": "career-ops-hq/career-ops", "zh": "AI 求职 Agent：扫岗位、按简历打分、再投递", "tools": "Claude Code"},
+  {"cat": "life", "repo": "Imbad0202/academic-research-skills", "zh": "学术研究全流程：调研、写作、评审、修改、定稿", "tools": "Claude Code / Codex"},
+  {"cat": "life", "repo": "kepano/obsidian-skills", "zh": "Obsidian 作者亲自出品，让 Agent 会用 Obsidian", "tools": "通用"},
+  {"cat": "life", "repo": "virgiliojr94/book-to-skill", "zh": "把任何技术书 PDF 变成 Claude Code Skill", "tools": "Claude Code"},
+
+  {"cat": "official", "repo": "anthropics/claude-code", "zh": "Claude Code 官方仓库", "tools": "Claude Code"},
+  {"cat": "official", "repo": "openai/codex", "zh": "Codex CLI 官方仓库", "tools": "Codex"},
+  {"cat": "official", "repo": "openai/skills", "zh": "Codex 官方 Skill 目录", "tools": "Codex"},
+
+  {"cat": "lists", "repo": "hesreallyhim/awesome-claude-code", "zh": "英文圈最大的 Claude Code 资源合集", "tools": "Claude Code"},
+  {"cat": "lists", "repo": "VoltAgent/awesome-agent-skills", "zh": "1000+ 个 Agent Skill 合集", "tools": "通用"},
+  {"cat": "lists", "repo": "composio-community/awesome-codex-skills", "zh": "Codex Skill 合集", "tools": "Codex"}
+]

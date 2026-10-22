@@ -36,6 +36,7 @@
   {"cat": "content", "repo": "Vincentwei1021/video-shotcraft", "zh": "电影感产品视频：152 张分镜卡、209 种运动效果", "tools": "Claude Code / Codex"},
   {"cat": "content", "repo": "latent-spaces/brag", "zh": "一条命令把刚做完的项目变成可分享的发布短片", "tools": "Claude Code"},
   {"cat": "content", "repo": "digitalsamba/claude-code-video-toolkit", "zh": "AI 原生视频制作：写脚本、配音、配乐、渲染 MP4 全流程", "tools": "Claude Code"},
+  {"cat": "content", "repo": "FizzEat/moss-eagle-skill", "zh": "把 Eagle 收藏图反推成六段式提示词并写回注释，再用 MOSS-Image 批量生图导回 Eagle，实测 259 张一次跑完", "tools": "Claude Code"},
 
   {"cat": "zh", "repo": "JimLiu/baoyu-skills", "zh": "宝玉的 20+ 个效率 Skill：封面图、文章配图、发公众号等", "tools": "Claude Code / Codex"},
   {"cat": "zh", "repo": "KKKKhazix/khazix-skills", "zh": "数字生命卡兹克的 Skill 合集：定目标、洁癖整理、写作等", "tools": "Claude Code / Codex"},
